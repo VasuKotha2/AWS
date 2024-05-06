@@ -1,3 +1,5 @@
-**/*.tfstate
-**/*.tfstate.*
-**/.terraform/*
+AWSPractice/Static-website-terraform/*.terraform
+AWSPractice/Static-website-terraform/*.lock.hcl
+AWSPractice/Static-website-terraform/*.tfstate
+AWSPractice/Static-website-terraform/*.tfstate.backup
+
